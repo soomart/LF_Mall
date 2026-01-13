@@ -36,6 +36,7 @@
 
 
 |<small><b>회원정보변경1</b></small>|<small><b>회원정보변경2</b></small>|<small><b>회원탈퇴</b></small>|
+|:-:|:-:|:-:|
 |<img width="1197" height="760" alt="회원정보변경1" src="https://github.com/user-attachments/assets/8a5249ae-7e36-4e81-aa85-3d2ce8e44955" />|<img width="1412" height="802" alt="회원정보변경2" src="https://github.com/user-attachments/assets/b89e750e-c3ee-4cd4-9227-35f7da4491bf" />|<img width="792" height="615" alt="회원탈퇴1" src="https://github.com/user-attachments/assets/c6ddcd1a-7d77-43fa-9a9e-b57ab5452ced" />|
 
 
