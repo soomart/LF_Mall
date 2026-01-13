@@ -32,7 +32,7 @@
 
 |<small>메인</small>|<small>카테고리<small>|<small>쇼핑벡</small>|
 |:-:|:-:|:-:|
-|![003](<img width="1407" height="800" alt="배송지관리1" src="https://github.com/user-attachments/assets/343ebc8e-7ccb-47a3-9a8e-6464cb06394d" />)|![004](https://github.com/user-attachments/assets/07418e6a-8ce3-4a0b-a93e-709b6ded83b0)|![005](https://github.com/user-attachments/assets/dab10923-4571-4c1e-a672-8c46ee10a18e)|
+|(<img width="1407" height="800" alt="배송지관리1" src="https://github.com/user-attachments/assets/343ebc8e-7ccb-47a3-9a8e-6464cb06394d" />)|![004](https://github.com/user-attachments/assets/07418e6a-8ce3-4a0b-a93e-709b6ded83b0)|![005](https://github.com/user-attachments/assets/dab10923-4571-4c1e-a672-8c46ee10a18e)|
 |<small><b>결제</b></small>|<small><b>상세페이지</b></small>|<small><b>로그인</b></small>|
 |![006](https://github.com/user-attachments/assets/1c92c04d-a2b5-4ea6-8403-b2518d39e92a)|![007](https://github.com/user-attachments/assets/d79c3c10-6632-40b2-af55-b808af5913a5)|![008](https://github.com/user-attachments/assets/b9e43078-1772-4328-869a-26b4a3e9d9d2)|
 
