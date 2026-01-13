@@ -30,11 +30,13 @@
 
 
 
-|<small>메인</small>|<small>카테고리<small>|<small>쇼핑벡</small>|
+|<small>로그인</small>|<small>회원가입<small>|<small>배송지 관리</small>|
 |:-:|:-:|:-:|
-|<img width="1407" height="800" alt="배송지관리1" src="https://github.com/user-attachments/assets/343ebc8e-7ccb-47a3-9a8e-6464cb06394d" />|![004](https://github.com/user-attachments/assets/07418e6a-8ce3-4a0b-a93e-709b6ded83b0)|![005](https://github.com/user-attachments/assets/dab10923-4571-4c1e-a672-8c46ee10a18e)|
-|<small><b>결제</b></small>|<small><b>상세페이지</b></small>|<small><b>로그인</b></small>|
-|![006](https://github.com/user-attachments/assets/1c92c04d-a2b5-4ea6-8403-b2518d39e92a)|![007](https://github.com/user-attachments/assets/d79c3c10-6632-40b2-af55-b808af5913a5)|![008](https://github.com/user-attachments/assets/b9e43078-1772-4328-869a-26b4a3e9d9d2)|
+|![001](https://github.com/user-attachments/assets/b9e43078-1772-4328-869a-26b4a3e9d9d2)|<img width="1192" height="732" alt="회원가입1" src="https://github.com/user-attachments/assets/623e39c7-a20c-49bf-9457-65141477460e" />|<img width="1407" height="800" alt="배송지관리1" src="https://github.com/user-attachments/assets/c12f0bce-633b-40e5-a464-fd2ed1d47019" />|
+
+
+|<small><b>회원정보변경1</b></small>|<small><b>회원정보변경2</b></small>|<small><b>회원탈퇴</b></small>|
+|<img width="1197" height="760" alt="회원정보변경1" src="https://github.com/user-attachments/assets/8a5249ae-7e36-4e81-aa85-3d2ce8e44955" />|<img width="1412" height="802" alt="회원정보변경2" src="https://github.com/user-attachments/assets/b89e750e-c3ee-4cd4-9227-35f7da4491bf" />|<img width="792" height="615" alt="회원탈퇴1" src="https://github.com/user-attachments/assets/c6ddcd1a-7d77-43fa-9a9e-b57ab5452ced" />|
 
 
 ### 서비스 부가기능
