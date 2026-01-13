@@ -32,7 +32,7 @@
 
 |<small>로그인</small>|<small>회원가입<small>|<small>배송지 관리</small>|
 |:-:|:-:|:-:|
-|![001](https://github.com/user-attachments/assets/b9e43078-1772-4328-869a-26b4a3e9d9d2)|<img alt="회원가입1" src="https://github.com/user-attachments/assets/623e39c7-a20c-49bf-9457-65141477460e" />|<img width="1407" height="800" alt="배송지관리1" src="https://github.com/user-attachments/assets/c12f0bce-633b-40e5-a464-fd2ed1d47019" />|
+|![001](https://github.com/user-attachments/assets/b9e43078-1772-4328-869a-26b4a3e9d9d2)|<img alt="회원가입1" src="https://github.com/user-attachments/assets/623e39c7-a20c-49bf-9457-65141477460e" />|<img alt="배송지관리1" src="https://github.com/user-attachments/assets/c12f0bce-633b-40e5-a464-fd2ed1d47019" />|
 
 
 |<small><b>회원정보변경1</b></small>|<small><b>회원정보변경2</b></small>|<small><b>회원탈퇴</b></small>|
