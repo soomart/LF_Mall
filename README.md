@@ -1,5 +1,9 @@
 # LF_Mall (팀 프로젝트 / 개발기간 2024-09-23 ~ 2024-10-20)
 
+### 프로젝트 역할
+프로젝트 전체 인원 : 5명
+작업 파트 : 로그인(소셜로그인) / 회원가입(이메일, 문자인증 api) / 마이페이지(주소록 관리, 회원정보 변경 및 탈퇴)
+
 ### 프로젝트 개요
 프로젝트 
 
@@ -20,6 +24,21 @@
 ### 서비스 핵심기능
 ```
 핵심기능 #1. : SpringSecurity를 활용한 인증처리
+핵심기능 #2. : Vue를 활용한 실시간 랜더링
+핵심기능 #3. : 아임포트를 활용한 결제
+```
+
+
+
+|<small>메인</small>|<small>카테고리<small>|<small>쇼핑벡</small>|
+|:-:|:-:|:-:|
+|![003](https://github.com/user-attachments/assets/d9d51e6c-6a5f-48d3-aa95-be30d83b54ea)|![004](https://github.com/user-attachments/assets/07418e6a-8ce3-4a0b-a93e-709b6ded83b0)|![005](https://github.com/user-attachments/assets/dab10923-4571-4c1e-a672-8c46ee10a18e)|
+|<small><b>결제</b></small>|<small><b>상세페이지</b></small>|<small><b>로그인</b></small>|
+|![006](https://github.com/user-attachments/assets/1c92c04d-a2b5-4ea6-8403-b2518d39e92a)|![007](https://github.com/user-attachments/assets/d79c3c10-6632-40b2-af55-b808af5913a5)|![008](https://github.com/user-attachments/assets/b9e43078-1772-4328-869a-26b4a3e9d9d2)|
+
+### 서비스 부가기능
+```
+부가기능 #1. : SpringSecurity를 활용한 인증처리
 핵심기능 #2. : Vue를 활용한 실시간 랜더링
 핵심기능 #3. : 아임포트를 활용한 결제
 ```
