@@ -40,7 +40,7 @@
 |<img width="1000" height="760" alt="회원정보변경1" src="https://github.com/user-attachments/assets/8a5249ae-7e36-4e81-aa85-3d2ce8e44955" />|<img width="1000" height="760" alt="회원정보변경2" src="https://github.com/user-attachments/assets/b89e750e-c3ee-4cd4-9227-35f7da4491bf" />|<img alt="회원탈퇴1" src="https://github.com/user-attachments/assets/c6ddcd1a-7d77-43fa-9a9e-b57ab5452ced" />|
 
 
-### 서비스 부가기능
+### 로그인 코드설명
 ```
 부가기능 #1. : SpringSecurity를 활용한 인증처리
 핵심기능 #2. : Vue를 활용한 실시간 랜더링
@@ -52,8 +52,58 @@
 |<small>메인</small>|<small>카테고리<small>|<small>쇼핑벡</small>|
 |:-:|:-:|:-:|
 |![003](https://github.com/user-attachments/assets/d9d51e6c-6a5f-48d3-aa95-be30d83b54ea)|![004](https://github.com/user-attachments/assets/07418e6a-8ce3-4a0b-a93e-709b6ded83b0)|![005](https://github.com/user-attachments/assets/dab10923-4571-4c1e-a672-8c46ee10a18e)|
-|<small><b>결제</b></small>|<small><b>상세페이지</b></small>|<small><b>로그인</b></small>|
-|![006](https://github.com/user-attachments/assets/1c92c04d-a2b5-4ea6-8403-b2518d39e92a)|![007](https://github.com/user-attachments/assets/d79c3c10-6632-40b2-af55-b808af5913a5)|![008](https://github.com/user-attachments/assets/b9e43078-1772-4328-869a-26b4a3e9d9d2)|
+
+### 회원가입 코드설명
+```
+부가기능 #1. : SpringSecurity를 활용한 인증처리
+핵심기능 #2. : Vue를 활용한 실시간 랜더링
+핵심기능 #3. : 아임포트를 활용한 결제
+```
+
+
+
+|<small>메인</small>|<small>카테고리<small>|<small>쇼핑벡</small>|
+|:-:|:-:|:-:|
+|![003](https://github.com/user-attachments/assets/d9d51e6c-6a5f-48d3-aa95-be30d83b54ea)|![004](https://github.com/user-attachments/assets/07418e6a-8ce3-4a0b-a93e-709b6ded83b0)|![005](https://github.com/user-attachments/assets/dab10923-4571-4c1e-a672-8c46ee10a18e)|
+
+### 배송지관리 코드설명
+```
+부가기능 #1. : SpringSecurity를 활용한 인증처리
+핵심기능 #2. : Vue를 활용한 실시간 랜더링
+핵심기능 #3. : 아임포트를 활용한 결제
+```
+
+
+
+|<small>메인</small>|<small>카테고리<small>|<small>쇼핑벡</small>|
+|:-:|:-:|:-:|
+|![003](https://github.com/user-attachments/assets/d9d51e6c-6a5f-48d3-aa95-be30d83b54ea)|![004](https://github.com/user-attachments/assets/07418e6a-8ce3-4a0b-a93e-709b6ded83b0)|![005](https://github.com/user-attachments/assets/dab10923-4571-4c1e-a672-8c46ee10a18e)|
+
+### 회원정보 변경 코드설명
+```
+부가기능 #1. : SpringSecurity를 활용한 인증처리
+핵심기능 #2. : Vue를 활용한 실시간 랜더링
+핵심기능 #3. : 아임포트를 활용한 결제
+```
+
+
+
+|<small>메인</small>|<small>카테고리<small>|<small>쇼핑벡</small>|
+|:-:|:-:|:-:|
+|![003](https://github.com/user-attachments/assets/d9d51e6c-6a5f-48d3-aa95-be30d83b54ea)|![004](https://github.com/user-attachments/assets/07418e6a-8ce3-4a0b-a93e-709b6ded83b0)|![005](https://github.com/user-attachments/assets/dab10923-4571-4c1e-a672-8c46ee10a18e)|
+
+### 회원탈퇴 코드설명
+```
+부가기능 #1. : SpringSecurity를 활용한 인증처리
+핵심기능 #2. : Vue를 활용한 실시간 랜더링
+핵심기능 #3. : 아임포트를 활용한 결제
+```
+
+
+
+|<small>메인</small>|<small>카테고리<small>|<small>쇼핑벡</small>|
+|:-:|:-:|:-:|
+|![003](https://github.com/user-attachments/assets/d9d51e6c-6a5f-48d3-aa95-be30d83b54ea)|![004](https://github.com/user-attachments/assets/07418e6a-8ce3-4a0b-a93e-709b6ded83b0)|![005](https://github.com/user-attachments/assets/dab10923-4571-4c1e-a672-8c46ee10a18e)|
 
 
 ### 🛠기술 스택
