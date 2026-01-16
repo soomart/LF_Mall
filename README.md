@@ -109,8 +109,8 @@
 ### 🛠기술 스택
 OS | Windows 10
 --- | --- |
+IDE | ![IntelliJ](https://img.shields.io/badge/IntelliJ-000?style=for-the-badge&logo=eclipseide&logoColor=white) ![VS](https://img.shields.io/badge/VS-000?style=for-the-badge&logo=eclipseide&logoColor=white)
 Language | ![Java](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=java&logoColor=white) ![Spring](https://img.shields.io/badge/Spring-000?style=for-the-badge&logo=spring&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-000?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript&logoColor=white)
-IDE | ![IntelliJ](https://img.shields.io/badge/IntelliJ-000?style=for-the-badge&logo=eclipseide&logoColor=white) ![SQL](https://img.shields.io/badge/SQL%20Developer-000?style=for-the-badge&logo=oracle&logoColor=white)
 Framework | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![Intellij](https://img.shields.io/badge/Intellij-d40000?style=for-the-badge)
 Build Tool | ![Gradle](https://img.shields.io/badge/Gradle%20-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 Database | ![My SQL Database 11g](https://img.shields.io/badge/MySQL-F80000?style=for-the-badge&logo=oracle&logoColor=white)
